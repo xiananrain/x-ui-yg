@@ -37,6 +37,19 @@
 
 -------------------------------
 
+## 前置准备
+
+```bash
+git clone https://github.com/xiananrain/ssl
+```
+
+## ssl地址
+
+```bash
+/root/ssl/xiananorg.crt
+```
+
+
 ### 一键脚本：
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
