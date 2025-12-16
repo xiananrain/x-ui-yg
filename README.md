@@ -46,7 +46,7 @@ git clone https://github.com/xiananrain/ssl
 ## ssl地址
 
 ```bash
-/root/ssl/orginins.crt
+/root/ssl/originins.crt
 ```
 
 
